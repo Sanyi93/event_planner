@@ -67,7 +67,15 @@ const EventPlanner = () => {
 
             </section>
             <section className="testimonials">
-
+                <h2>Testimonials</h2>
+                <div className="testimonial">
+                    <p>"Event planner made organizing my wedding a breeze. Highly recommended!"</p>
+                    <p className="author">-Emily Johnson</p>
+                </div>
+                <div className="testimonial">
+                    <p>"I use event Planner for all my corporate events"</p>
+                    <p className="author">- John Smith</p>
+                </div>
             </section>
             <section className="contact">
 
